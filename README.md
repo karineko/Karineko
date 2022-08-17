@@ -2,7 +2,7 @@
 
 
 - 📜 Atualmente cursando Engenharia da Computação
-- 🌱 Estudando React
+- 🌱 
 - 💬 Contate-me no email: 
 - 😄 Pronouns: ela/dela
 
